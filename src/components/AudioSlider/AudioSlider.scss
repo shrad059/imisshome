@@ -1,0 +1,72 @@
+.sliderTitle {
+    font-weight: 400;
+    width: 200px;
+    font-size: 15px;
+    display: flex;
+    margin-bottom: 2px;
+  }
+  
+  .volume-controllers {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  
+    div {
+      width: 90%;
+    }
+  
+    @media screen and (max-width: 768px) {
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+  
+      .Slider {
+        width: 100%; // Adjust slider width for smaller screens
+      }
+  
+      .divAudio {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+      }
+    }
+  
+    .Slider {
+      color: black;
+      size: "small";
+      cursor: pointer;
+      border: none;
+      background: transparent;
+      width: 280px;
+      margin-left: 10px; // Add space between VolumeUp icon and Slider
+    }
+  
+    .divAudio {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+  
+  // Additional responsive adjustments
+  @media screen and (max-width: 480px) {
+    .sliderTitle {
+      font-size: 12px; // Adjust font size for very small screens
+      width: 150px; // Adjust width for very small screens
+    }
+  
+    .volume-controllers {
+      .Slider {
+        width: 100%; // Full width for very small screens
+      }
+  
+      .divAudio {
+        flex-direction: column; // Stack items vertically for very small screens
+        align-items: center;
+      }
+      .volumeUp{
+        display: none;
+      }
+    }
+  }
+  

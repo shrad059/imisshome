@@ -1,0 +1,14 @@
+.info-text {
+    display: block;
+    text-align: left;
+    margin-left: 20px;
+    color: var(--font-color);
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-family: 'Nanum Myeongjo', serif;
+
+    a {
+        text-decoration: none;
+        color: #b7410e;
+    } 
+}

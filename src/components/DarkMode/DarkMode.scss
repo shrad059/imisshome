@@ -1,0 +1,28 @@
+/* 1 */
+:root {
+  --font-color: #333;
+  --background-color: #faebd7;
+}
+
+/* 2 */
+[data-theme="dark"] {
+  --font-color: #faebd7;
+  --background-color: #333;
+}
+
+/* 3 */
+body {
+  background-color: var(--background-color);
+  color: var(--font-color);
+}
+
+.toggle-theme-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4px;
+
+    span {
+      font-size: 28px;
+    }
+  }
