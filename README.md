@@ -2,6 +2,9 @@
 
 React App, created to simulate the ambient sounds of India.
 
+
+##Credits:
+
 ### Inspired by
 * [ridehome](https://ridehome.netlify.app/)
 * [imissmycafe](https://imissmycafe.com/)
