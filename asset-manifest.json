@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/imisshome/static/css/main.088109a6.css",
+    "main.js": "/imisshome/static/js/main.448702ee.js",
+    "static/media/endless.m4a": "/imisshome/static/media/endless.12ba412c29dc5d74bc64.m4a",
+    "static/media/chai.mp3": "/imisshome/static/media/chai.c280458fe6b0212ea554.mp3",
+    "static/media/dosa.mp3": "/imisshome/static/media/dosa.db4021b66db4fb94d5c8.mp3",
+    "static/media/train_night.gif": "/imisshome/static/media/train_night.772d002493a06375aaed.gif",
+    "static/media/rain.mp3": "/imisshome/static/media/rain.54ff2239d7c5da7dc9f5.mp3",
+    "static/media/restaurant.mp3": "/imisshome/static/media/restaurant.699885fa8e48c4749cf2.mp3",
+    "static/media/chai-selling.mp3": "/imisshome/static/media/chai-selling.aee823df3fb7106bf968.mp3",
+    "static/media/sitar.mp3": "/imisshome/static/media/sitar.67cb6fde469480cf6339.mp3",
+    "static/media/train.mp3": "/imisshome/static/media/train.7e6fb2739cc5e786aae5.mp3",
+    "static/media/music.mp3": "/imisshome/static/media/music.7813b65d58f2cb4ddbfe.mp3",
+    "static/media/bangles.mp3": "/imisshome/static/media/bangles.c6008c1c04641a6ff5ff.mp3",
+    "static/media/india.png": "/imisshome/static/media/india.93b0b7cee92409942476.png",
+    "static/media/talking.mp3": "/imisshome/static/media/talking.391ea04b855caea6f152.mp3",
+    "index.html": "/imisshome/index.html",
+    "main.088109a6.css.map": "/imisshome/static/css/main.088109a6.css.map",
+    "main.448702ee.js.map": "/imisshome/static/js/main.448702ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.088109a6.css",
+    "static/js/main.448702ee.js"
+  ]
+}
