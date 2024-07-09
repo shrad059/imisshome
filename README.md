@@ -3,7 +3,7 @@
 React App, created to simulate the ambient sounds of India.
 
 
-##Credits:
+## Credits:
 
 ### Inspired by
 * [ridehome](https://ridehome.netlify.app/)
